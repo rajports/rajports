@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RAj :)
+- 👋 Hi, I’m RAJ :)
 - 👀 I’m interested in ...Learning New Tools and Watching Movies. 
 - 🌱 I’m currently learning ...PostMan API & AWS
 - 💞️ I’m looking to collaborate on ...Automation Testing.
