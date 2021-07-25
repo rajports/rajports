@@ -1,8 +1,19 @@
-- 👋 Hi, I’m RAJ :)
-- 👀 I’m interested in ...Learning New Tools and Watching Movies. 
-- 🌱 I’m currently learning ...PostMan API & AWS
-- 💞️ I’m looking to collaborate on ...Automation Testing.
-- 📫 How to reach me ...07783380123
+I'm an Engineer by profession and a Teacher by passion.
+
+I'm just an invite away - raj.bejgum@gmail.com
+
+Technologies:
+
+Selenium, JAVA, Javascript, AWS, Azure, SQL Server, PostMan API
+
+Also interested in:
+
+Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress
+
+
+Cheers,
+Raj Bejgum
+@rajports
 
 <!---
 rajports/rajports is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
